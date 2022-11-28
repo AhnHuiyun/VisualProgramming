@@ -1,0 +1,8 @@
+D:\C#\비주얼프로그래밍\FileStream\Filestream\bin\Debug\Filestream.exe.config
+D:\C#\비주얼프로그래밍\FileStream\Filestream\bin\Debug\Filestream.exe
+D:\C#\비주얼프로그래밍\FileStream\Filestream\bin\Debug\Filestream.pdb
+D:\C#\비주얼프로그래밍\FileStream\Filestream\obj\Debug\Filestream.csproj.AssemblyReference.cache
+D:\C#\비주얼프로그래밍\FileStream\Filestream\obj\Debug\Filestream.csproj.SuggestedBindingRedirects.cache
+D:\C#\비주얼프로그래밍\FileStream\Filestream\obj\Debug\Filestream.csproj.CoreCompileInputs.cache
+D:\C#\비주얼프로그래밍\FileStream\Filestream\obj\Debug\Filestream.exe
+D:\C#\비주얼프로그래밍\FileStream\Filestream\obj\Debug\Filestream.pdb
