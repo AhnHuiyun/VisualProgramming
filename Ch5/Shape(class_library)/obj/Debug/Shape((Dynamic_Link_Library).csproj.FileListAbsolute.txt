@@ -1,0 +1,6 @@
+D:\C#\비주얼프로그래밍\Shape(class_library)\bin\Debug\Shape(class_library).pdb
+D:\C#\비주얼프로그래밍\Shape(class_library)\obj\Debug\Shape((Dynamic_Link_Library).csproj.AssemblyReference.cache
+D:\C#\비주얼프로그래밍\Shape(class_library)\obj\Debug\Shape((Dynamic_Link_Library).csproj.CoreCompileInputs.cache
+D:\C#\비주얼프로그래밍\Shape(class_library)\obj\Debug\Shape(class_library).dll
+D:\C#\비주얼프로그래밍\Shape(class_library)\obj\Debug\Shape(class_library).pdb
+D:\C#\비주얼프로그래밍\Shape(class_library)\obj\Debug\Shape((Dynamic_Link_Library).csproj.CopyComplete
