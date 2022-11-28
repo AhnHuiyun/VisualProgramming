@@ -1,0 +1,16 @@
+C:\Users\anhee\source\repos\1장\2장\bin\Debug\2장.exe.config
+C:\Users\anhee\source\repos\1장\2장\bin\Debug\2장.exe
+C:\Users\anhee\source\repos\1장\2장\bin\Debug\2장.pdb
+C:\Users\anhee\source\repos\1장\2장\obj\Debug\2장.csproj.AssemblyReference.cache
+C:\Users\anhee\source\repos\1장\2장\obj\Debug\2장.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhee\source\repos\1장\2장\obj\Debug\2장.csproj.CoreCompileInputs.cache
+C:\Users\anhee\source\repos\1장\2장\obj\Debug\2장.exe
+C:\Users\anhee\source\repos\1장\2장\obj\Debug\2장.pdb
+D:\C#\비주얼프로그래밍\2장\bin\Debug\2장.exe.config
+D:\C#\비주얼프로그래밍\2장\bin\Debug\2장.exe
+D:\C#\비주얼프로그래밍\2장\bin\Debug\2장.pdb
+D:\C#\비주얼프로그래밍\2장\obj\Debug\2장.csproj.AssemblyReference.cache
+D:\C#\비주얼프로그래밍\2장\obj\Debug\2장.csproj.SuggestedBindingRedirects.cache
+D:\C#\비주얼프로그래밍\2장\obj\Debug\2장.csproj.CoreCompileInputs.cache
+D:\C#\비주얼프로그래밍\2장\obj\Debug\2장.exe
+D:\C#\비주얼프로그래밍\2장\obj\Debug\2장.pdb
